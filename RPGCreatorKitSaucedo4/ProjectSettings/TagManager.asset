@@ -44,3 +44,6 @@ TagManager:
   - name: smongus
     uniqueID: 2211608925
     locked: 0
+  - name: Roof
+    uniqueID: 663731843
+    locked: 0
